@@ -16,4 +16,9 @@
   - Embedding에 대하여 이해하고, `Word2Vec` 모델로 벡터화를 진행합니다.
   - CBow와 Skip-gram에 대하여 이해합니다.
   - FastText와 Glove에 대하여 공부합니다.
+- [[D-6]BM25_Ranking](): 키워드 기반 검색 알고리즘 BM25를 구현한 코드입니다.
+- [[D-7]learning_to_rank]()
+  > 쇼핑몰 검색엔진을 최적화한다고 생각하여 봅시다. 검색을 통해 어떻게 순위를 매겨서 차례로 노출시킬 수 있을까요?
+  > 직관적으로 피드백을 통해 개선하거나, A/B testing을 생각해 볼 수 있지만, 조금 더 공학적인 접근을 해보자구요 우리. 
+  - **구매전환에 대한 점수를 매겨서, likelihood를 최대화하는 방향으로 선호도 함수를 자동으로 학습하는 알고리즘을 구현해 봅시다.**
 - [[D-8]huggingface_basic_manual](https://github.com/crosstar1228/NLP_and_Recommendation/blob/main/%5BD-8%5Dhuggingface_basic_manual.ipynb): NLP 학습 Framework인 huggingface에 대하여 이해하고, pretrained model을 불러오는 과정에 대하여 알아봅니다.
