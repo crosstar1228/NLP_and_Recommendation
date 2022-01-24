@@ -22,3 +22,5 @@
   > 직관적으로 피드백을 통해 개선하거나, A/B testing을 생각해 볼 수 있지만, 조금 더 공학적인 접근을 해보자구요 우리. 
   - **구매전환에 대한 점수를 매겨서, likelihood를 최대화하는 방향으로 선호도 함수를 자동으로 학습하는 알고리즘을 구현해 봅시다.**
 - [[D-8]huggingface_basic_manual](https://github.com/crosstar1228/NLP_and_Recommendation/blob/main/%5BD-8%5Dhuggingface_basic_manual.ipynb): NLP 학습 Framework인 huggingface에 대하여 이해하고, pretrained model을 불러오는 과정에 대하여 알아봅니다.
+
+- [[D-9]UFO_comment_analysis](): Kaggle의 'UFO' 관측 데이터에 기반하여 년도별 comment를 분석하고, 이를 이용하여 문장을 생성해 내는 모델을 만든 과제입니다. 
